@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "566837640977",
+    "project_id": "shrubhub-ec955",
+    "storage_bucket": "shrubhub-ec955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566837640977:android:b20343cfeb9b96af5b56b0",
+        "android_client_info": {
+          "package_name": "com.example.shrub_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566837640977-kao6bm04foso38ltrr6166hfgojqcuov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7EScfJCbML4YDZjhuywHnigZU9rPzyGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566837640977-kao6bm04foso38ltrr6166hfgojqcuov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566837640977-aof2tetirpcumnvdvdpbtmhse25itvlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shrubHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
